@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "J'ai fait du roller artistique",
+      "response": ""
+    },
+    {
+      "id": 2,
+      "text": "J'ai perfectionné mon yoga en Inde",
+      "response": ""
+    },
+    {
+      "id": 3,
+      "text": "Je bosse sur un vélo",
+      "response": ""
+    },
+    {
+      "id": 4,
+      "text": "Enfant, j'ai passé toutes mes vacances au Portugal",
+      "response": ""
+    },
+    {
+      "id": 5,
+      "text": "J'ai des poules",
+      "response": ""
+    },
+    {
+      "id": 6,
+      "text": "J'ai une piscine",
+      "response": ""
+    },
+    {
+      "id": 7,
+      "text": "J'ai étudié au Canada",
+      "response": ""
+    },
+    {
+      "id": 8,
+      "text": "Je fais de la peinture",
+      "response": ""
+    },
+    {
+      "id": 9,
+      "text": "J'ai été élevé·e à la ferme",
+      "response": ""
+    },
+    {
+      "id": 10,
+      "text": "Je suis né·e sur un autre continent",
+      "response": ""
+    },
+    {
+      "id": 11,
+      "text": "Je prévois de créer une communauté pour mes vieux jours",
+      "response": ""
+    },
+    {
+      "id": 12,
+      "text": "J'ai scoré grave à Typing of the Dead",
+      "response": ""
+    },
+    {
+      "id": 13,
+      "text": "Je sais te décrire en détail comment fonctionne le protocole DNS",
+      "response": ""
+    },
+    {
+      "id": 14,
+      "text": "Je peux te citer 5 sorts du premier au cinquième niveau",
+      "response": ""
+    },
+    {
+      "id": 15,
+      "text": "Je joue bien de la guitare",
+      "response": ""
+    },
+    {
+      "id": 16,
+      "text": "Je fais de la couture",
+      "response": ""
+    },
+    {
+      "id": 17,
+      "text": "Je fais du tricot",
+      "response": ""
+    },
+    {
+      "id": 18,
+      "text": "Je prends le train plusieurs fois par mois",
+      "response": ""
+    },
+    {
+      "id": 19,
+      "text": "Je peux te décrire en détail ce qu'est le Nécronomicon",
+      "response": ""
+    },
+    {
+      "id": 20,
+      "text": "J'ai pratiqué régulièrement le spiritisme",
+      "response": ""
+    },
+    {
+      "id": 21,
+      "text": "J'ai été champion·ne de kickboxing",
+      "response": ""
+    },
+    {
+      "id": 22,
+      "text": "J'ai été stripteaseur·se pro",
+      "response": ""
+    },
+    {
+      "id": 23,
+      "text": "J'ai été le premier associé de Chris",
+      "response": ""
+    },
+    {
+      "id": 24,
+      "text": "Je joue du piano",
+      "response": ""
+    },
+    {
+      "id": 25,
+      "text": "J'ai étudié à Boston",
+      "response": ""
+    },
+    {
+      "id": 26,
+      "text": "Je fais du surf",
+      "response": ""
+    },
+    {
+      "id": 27,
+      "text": "J'ai lancé une entreprise",
+      "response": ""
+    },
+    {
+      "id": 28,
+      "text": "J'ai un prénom de justicier",
+      "response": ""
+    },
+    {
+      "id": 29,
+      "text": "Je vais tous les étés à Hossegor",
+      "response": ""
+    },
+    {
+      "id": 30,
+      "text": "J'ai fait du rallye automobile",
+      "response": ""
+    },
+    {
+      "id": 31,
+      "text": "J'ai un cheval",
+      "response": ""
+    },
+    {
+      "id": 32,
+      "text": "Je suis président·e",
+      "response": ""
+    },
+    {
+      "id": 33,
+      "text": "J'ai un reptile",
+      "response": ""
+    },
+    {
+      "id": 34,
+      "text": "Je vends de l'eau du robinet",
+      "response": ""
+    },
+    {
+      "id": 35,
+      "text": "J'ai baptisé mon fils à Notre-Dame de Paris",
+      "response": ""
+    },
+    {
+      "id": 36,
+      "text": "J'ai bossé au Brésil",
+      "response": ""
+    },
+    {
+      "id": 37,
+      "text": "Je suis fan de chaussettes",
+      "response": ""
+    },
+    {
+      "id": 38,
+      "text": "Je n'aime pas les points de suspension",
+      "response": ""
+    },
+    {
+      "id": 39,
+      "text": "Je fais de la photo",
+      "response": ""
+    },
+    {
+      "id": 40,
+      "text": "Je déteste le fromage",
+      "response": ""
+    },
+    {
+      "id": 41,
+      "text": "Je suis metteur·se en scène au théâtre",
+      "response": ""
+    },
+    {
+      "id": 42,
+      "text": "Mon /played à WOW te laisserait sans voix",
+      "response": ""
+    },
+    {
+      "id": 43,
+      "text": "Les ours sont une inspiration pour moi",
+      "response": ""
+    },
+    {
+      "id": 44,
+      "text": "Je prévois un voyage de plusieurs mois sur un autre continent",
+      "response": ""
+    },
+    {
+      "id": 45,
+      "text": "Je ne sais pas ce que je fais là",
+      "response": ""
+    },
+    {
+      "id": 46,
+      "text": "Je connais Le Corbeau et le Renard en verlan",
+      "response": ""
+    },
+    {
+      "id": 47,
+      "text": "J'ai été para",
+      "response": ""
+    },
+    {
+      "id": 48,
+      "text": "Je suis au service de la Nation",
+      "response": ""
+    },
+    {
+      "id": 49,
+      "text": "Je marche sur les mains et je peux te le montrer tout de suite",
+      "response": ""
+    },
+    {
+      "id": 50,
+      "text": "Je te fais 30 pompes d'une traite là maintenant",
+      "response": ""
+    },
+    {
+      "id": 51,
+      "text": "Je n'ai jamais rien acheté sur internet",
+      "response": ""
+    },
+    {
+      "id": 52,
+      "text": "J'ai été prof de français",
+      "response": ""
+    },
+    {
+      "id": 53,
+      "text": "Les livres sont un pilier de ma vie",
+      "response": ""
+    },
+    {
+      "id": 54,
+      "text": "Je pédale autant que je peux",
+      "response": ""
+    },
+    {
+      "id": 55,
+      "text": "Le kaizen n'a pas de secret pour moi",
+      "response": ""
+    },
+    {
+      "id": 56,
+      "text": "J'ai vécu au moins un an à l'étranger",
+      "response": ""
+    },
+    {
+      "id": 57,
+      "text": "J'ai déjà publié un livre ou un article",
+      "response": ""
+    },
+    {
+      "id": 58,
+      "text": "J'ai récemment appris une nouvelle langue",
+      "response": ""
+    },
+    {
+      "id": 59,
+      "text": "Je suis bénévole dans une association",
+      "response": ""
+    },
+    {
+      "id": 60,
+      "text": "Je collectionne quelque chose d'insolite",
+      "response": ""
+    },
+    {
+      "id": 61,
+      "text": "Je suis un·e spécialiste des cocktails",
+      "response": ""
+    },
+    {
+      "id": 62,
+      "text": "Je prévois de courir un marathon",
+      "response": ""
+    },
+    {
+      "id": 63,
+      "text": "J'ai déjà fait un trek de plusieurs jours",
+      "response": ""
+    },
+    {
+      "id": 64,
+      "text": "Je suis fan absolu·e d'un groupe de musique peu connu",
+      "response": ""
+    },
+    {
+      "id": 65,
+      "text": "J'ai déjà bien trop bu",
+      "response": ""
+    },
+    {
+      "id": 66,
+      "text": "J'en ai passé des jours et des jours à D&D, mon perso pref c'était : ",
+      "response": ""
+    },
+    {
+      "id": 67,
+      "text": "J'ai vu Travis Scott en concert",
+      "response": ""
+    },
+    {
+      "id": 68,
+      "text": "Je suis capable d'imiter parfaitement un dauphin",
+      "response": ""
+    },
+    {
+      "id": 69,
+      "text": "Je sais jongler et je te le montre là maintenant",
+      "response": ""
+    },
+    {
+      "id": 70,
+      "text": "Je parle couramment à mes plantes, et elles me répondent",
+      "response": ""
+    },
+    {
+      "id": 71,
+      "text": "Je peux te citer 5 Pokémon, mais pas 5 présidents français",
+      "response": ""
+    },
+    {
+      "id": 72,
+      "text": "Je chante sous la douche",
+      "response": ""
+    },
+    {
+      "id": 73,
+      "text": "J'ai déjà essayé de communiquer sérieusement avec mon animal de compagnie",
+      "response": ""
+    },
+    {
+      "id": 74,
+      "text": "Je connait une choré TikTok, et je te la montre",
+      "response": ""
+    },
+    {
+      "id": 75,
+      "text": "Je fais semblant de comprendre le vin en soirée, mais j'y connais rien",
+      "response": ""
+    },
+    {
+      "id": 76,
+      "text": "J'ai peur des pigeons",
+      "response": ""
+    },
+    {
+      "id": 77,
+      "text": "Je joue d'un instrument de musique plutôt bien",
+      "response": ""
+    },
+    {
+      "id": 78,
+      "text": "J'adore tellement la Bretagne qu'y passé un été ne me fait pas peur",
+      "response": ""
+    }
+  ]
+} 
