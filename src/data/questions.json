@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "Quelle est votre couleur préférée ?",
+      "response": ""
+    },
+    {
+      "id": 2,
+      "text": "Quel est votre film favori ?",
+      "response": ""
+    },
+    {
+      "id": 3,
+      "text": "Où aimeriez-vous voyager ?",
+      "response": ""
+    },
+    {
+      "id": 4, 
+      "text": "Quel est votre plat préféré ?",
+      "response": ""
+    },
+    {
+      "id": 5,
+      "text": "Quel est votre hobby principal ?",
+      "response": ""
+    },
+    {
+      "id": 6,
+      "text": "Quelle est votre saison préférée ?",
+      "response": ""
+    },
+    {
+      "id": 7,
+      "text": "Où aimeriez-vous voyager ?",
+      "response": ""
+    },
+    {
+      "id": 8, 
+      "text": "Quel est votre plat préféré ?",
+      "response": ""
+    },
+    {
+      "id": 9,
+      "text": "Quel est votre hobby principal ?",
+      "response": ""
+    },
+    {
+      "id": 10,
+      "text": "Quelle est votre saison préférée ?",
+      "response": ""
+    }
+  ]
+} 
